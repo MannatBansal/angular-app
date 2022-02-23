@@ -1,0 +1,15 @@
+footer{
+    bottom: 0%;
+    background-color: #767676 ;
+    position: absolute;
+    width:100%;
+}
+a{
+    color: antiquewhite;
+    font-weight: bold;
+}
+
+div{
+    color: antiquewhite;
+    font-weight: bold;
+}

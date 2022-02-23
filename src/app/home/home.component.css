@@ -1,0 +1,30 @@
+
+.p1{
+    background-color: #FAD9D1 ;
+    font-weight: bold;
+    border-right: 1px solid black;
+    padding: 20px;
+}
+
+.p2{
+    background-color: #FAE8AB ;
+    font-weight: bold;
+    border-right: 1px solid black;
+    padding: 20px;
+}
+
+.p3{
+    font-weight: bold;
+    padding: 20px;
+}
+
+.logo{
+	font-family:Times; 
+	font-size:50px; 
+	color:#B1E9FA ; 
+	float:left; 
+	margin-left: 20px;
+    margin: 50px;
+    margin-left: 100px;
+    
+}
